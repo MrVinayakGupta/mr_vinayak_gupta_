@@ -18,6 +18,7 @@
 </ul>
 <br>
 <h3>🔗 Let's Connect!</h3>
+<hr>
 <ul>
   <li><a href="https://x.com/Vinayakcoder7">X</a></li>
   <li><a href="https://github.com/MrVinayakGupta">GitHub</a></li>
