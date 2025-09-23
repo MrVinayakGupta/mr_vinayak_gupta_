@@ -22,5 +22,6 @@
 <ul>
   <li><a href="https://x.com/Vinayakcoder7">X</a></li>
   <li><a href="https://github.com/MrVinayakGupta">GitHub</a></li>
+  <li><a href="https://www.linkedin.com/in/vinayak-gupta-066424377">LinkedIn</a></li>
   
 </ul>  
