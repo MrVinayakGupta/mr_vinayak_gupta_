@@ -7,7 +7,6 @@
   <li>😄 Pronouns: He/Him</li>
 </ul>
 <br>
-
 <h3> Technologies & Tools</h3>
 <hr>
 <ul>
@@ -17,3 +16,10 @@
   <li><b>Databases:</b> MongoDB,MYSQL </li>
   <li><b>Other Tools:</b> Git, GitHub, VS Code </li>
 </ul>
+<br>
+<h3>🔗 Let's Connect!</h3>
+<ul>
+  <li><a href="https://x.com/Vinayakcoder7">X</a></li>
+  <li><a href="https://github.com/MrVinayakGupta">GitHub</a></li>
+  
+</ul>  
