@@ -14,6 +14,7 @@
   <li><b>Frontend:</b> HTML, CSS, JavaScript, Bootstrap </li>
   <li><b>Backend:</b> Node.js, Express.js</li>
   <li><b>Databases:</b> MongoDB,MYSQL </li>
+  <li><b>API:</b> REST </li>
   <li><b>Other Tools:</b> Git, GitHub, VS Code </li>
 </ul>
 <br>
